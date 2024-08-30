@@ -20,7 +20,6 @@
 
 ## Status
 
-![Celso GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHeartbreak&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHeartbreak)](https://github.com/anuraghazra/github-readme-stats)
 
 
